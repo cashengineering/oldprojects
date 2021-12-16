@@ -1,4 +1,4 @@
-# Poe Item Generator
+# Engineering Man Knowledge Center
 
 These my solutions for each problem set in the EMKC, all written within javascript.
 
