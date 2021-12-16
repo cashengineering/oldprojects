@@ -1,4 +1,4 @@
-#Django Web Server
+# Django Web Server
 
 This project was part of the 4th Year CS Program at Centennial Highschool in Fall of 2018.
 
