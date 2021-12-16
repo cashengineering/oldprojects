@@ -1,4 +1,4 @@
-#Earsketch Classwork
+# Earsketch Classwork
 
 These files are the coursework for a class I attended in fall of 2020.
 
